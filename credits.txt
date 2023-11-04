@@ -1,0 +1,18 @@
+CREDITS:
+
+GAME POWERED BY raylib: www.raylib.com;
+
+SOUNDTRACK:
+    "DarxieLand" Kevin MacLeod (incompetech.com)
+    Licensed under Creative Commons: By Attribution 4.0 License
+    http://creativecommons.org/licenses/by/4.0/
+
+    "Bet You Can ver 2" Kevin MacLeod (incompetech.com)"
+    Licensed under Creative Commons: By Attribution 4.0 License
+    http://creativecommons.org/licenses/by/4.0/
+
+FONT:
+    Font "8-bit-hud" (https://fontstruct.com/fontstructors/1297912/lspl)
+    Copyright (c) 2018-2023, "lSPl"
+    Licensed under the SIL Open Font License, Version 1.1
+    http://scripts.sil.org/OFL
